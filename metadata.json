@@ -1,0 +1,6 @@
+{
+  "name": "VoxelCraft Mobile",
+  "description": "A fully functional 3D voxel game engine for mobile browsers featuring procedural terrain, touch controls, physics, and world saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
